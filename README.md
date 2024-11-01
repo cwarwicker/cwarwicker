@@ -1,9 +1,7 @@
 # Conn Warwicker
-⭐⭐⭐⭐⭐⭐ EXPERT - ⭐⭐⭐⭐⭐ PROFICIENT  - ⭐⭐⭐⭐ EXPERIENCED - ⭐⭐⭐ KNOW MY WAY AROUND IT - ⭐⭐ PASSABLE - ⭐ TRIED IT ONCE OR TWICE - 💀TRIED IT. HATE IT. NEVER AGAIN.
 
 |RATING|STUFF|
 |--|--|
-| ⭐⭐⭐⭐⭐⭐ | - |
 | ⭐⭐⭐⭐⭐ | 🐘 PHP; 📙 MOODLE; 📘 TOTARA; |
 | ⭐⭐⭐⭐ | 📊 SQL; 🟨 JS; 🟧 JQUERY; 5️⃣ HTML; 🔀 GIT; 🟠 UBUNTU; 🐋 DOCKER; |
 | ⭐⭐⭐ | 🐍 PYTHON; 💎 RUBY; 🟥 LARAVEL; 🦊 GITLAB; 🅱️ BOOTSTRAP; |
