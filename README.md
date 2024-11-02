@@ -1,6 +1,6 @@
 # Conn Warwicker
 
-PHP developer since 2011. Specialising so far in Educational software such as Moodle/Totara. With various other side projects in other technologies.
+PHP developer with about 13 years experience. Specialising so far in Educational software such as Moodle/Totara. With various other side projects in other technologies.
 
 |RATING|STUFF|
 |--|--|
